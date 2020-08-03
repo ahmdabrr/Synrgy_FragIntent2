@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Synrgy - Show Toast at Fragment and Activity"
